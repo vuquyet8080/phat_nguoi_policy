@@ -119,6 +119,18 @@ footer a {
   margin-left: 10px;
 }
 
+/* Copyright page specific styles */
+.copyright-notice {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #2c3e50;
+  text-align: center;
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+}
+
 /* Container for better mobile responsiveness */
 @media (max-width: 840px) {
   body {
